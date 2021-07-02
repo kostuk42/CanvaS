@@ -1,7 +1,7 @@
 # CanvaS
  simply graphic editor
  
- Field for drawing is limited by yellow dashed line, type of cursor <crosshair>.
+ Field for drawing is limited by yellow dashed line, type of cursor 'crosshair'.
 
 Navigation menu:
 
@@ -18,3 +18,5 @@ SAVE: saves your edited image to HDD;
 UNDO: press to undo your actions;
 
 INVERT: colors inversion;
+
+Nice using!
