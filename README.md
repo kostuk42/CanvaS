@@ -1,9 +1,13 @@
 # CanvaS
  simply graphic editor
  
- Field for drawing is limited by yellow dashed line, type of cursor 'crosshair'.
-
+ Field for drawing is limited by yellow dashed line, type of cursor 'crosshair'. 
+ Draw up with left mouse button. Erase with right mouse button or button 'ERASER' of nav.menu
+ 
+ 
 Navigation menu:
+
+ERASER: first click ativates erasing mode of MLB second click - inactivates.
 
 RADIUS: allows to choose radius of brush in range from 1 to 99px;
 
