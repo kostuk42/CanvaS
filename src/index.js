@@ -1,4 +1,5 @@
 import './style.scss';
+import './fonts/font1.woff2';
 import CanvasObj from './modules/СanvasObj.js';
 import Drawing from './modules/Drawing.js';
 import FilesManage from './modules/FilesManage.js';
